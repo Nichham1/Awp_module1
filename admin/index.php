@@ -1,11 +1,10 @@
 <?php 
 
 $title = 'Admin';
-require_once 'includes/header.php'
-
+require_once 'includes/header.php';
 ?>
 
-    <h1>Welcome</h1>
+    <h1>Admin</h1>
 
-    
+
   <?php require_once 'includes/footer.php'; ?>

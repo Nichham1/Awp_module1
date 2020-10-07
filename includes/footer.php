@@ -1,4 +1,8 @@
 
+    </div>
+    <div id="footer" class="p-3 mb-2 bg-dark text-white fixed-bottom"> 
+     <p Class="text-center">  Copyright &copy; - School Management system <?php echo date("Y");?> </p>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
